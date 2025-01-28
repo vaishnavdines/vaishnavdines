@@ -4,7 +4,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&size=40&duration=800&repeat=1&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=𝕍𝔸𝕀𝕊ℍℕ𝔸𝕍+𝔻𝕀ℕ𝔼𝕊ℍ;𝖁𝕬𝕴𝕾𝕳𝕹𝕬𝖁+𝕯𝕴𝕹𝕰𝕾𝕳;𝓥𝓐𝓘𝓢𝓗𝓝𝓐𝓥+𝓓𝓘𝓝𝓔𝓢𝓗;𝕍𝔸𝕀𝕊ℍℕ𝔸𝕍+𝔻𝕀ℕ𝔼𝕊ℍ" alt="Animated Name">
   <br>
-  <sub><em style="color: #00FF00">(̶̧̥̰̰̗̥̒͐̉̿͒̕̚͠𝙰𝚄𝚃𝙷𝙾𝚁𝙸𝚉𝙴𝙳 𝙱𝚈 𝚃𝙷𝙴 𝙲𝙸𝚃𝙰𝙳𝙴𝙻 𝙾𝙵 𝚁𝙸𝙲𝙺𝚂)</em></sub>
+  <sub><em style="color: #00FF00">(̶̕𝙰𝚄𝚃𝙷𝙾𝚁𝙸𝚉𝙴𝙳 𝙱𝚈 𝚃𝙷𝙴 𝙲𝙸𝚃𝙰𝙳𝙴𝙻 𝙾𝙵 𝚁𝙸𝙲𝙺𝚂)</em></sub>
 </h1>
 ### 📡 **𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙿𝚘𝚛𝚝𝚊𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜**
 <p align="center">

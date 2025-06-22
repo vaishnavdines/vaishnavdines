@@ -41,7 +41,7 @@
 ### 🧪 Rick & Morty Dev Mode Activated
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="Rick and Morty Meme" />
+  <img src="https://i.redd.it/kc75jfgu62v61.png" width="500" alt="Rick and Morty Meme" />
 </p>
 
 > "Morty, you gotta analyze the tweets, Morty! It's the only way to measure the multiverse's sentiment!" — Rick 🧪
@@ -79,5 +79,3 @@
 > And I’m here to learn the spells. 🧙‍♂️
 
 ---
-
-

@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Vaishnav 🧠</h1>
-<p align="center">Java enthusiast • Logic explorer • Data analyst in progress 🚀</p>
+<h1 align="center">🧪 VAISHNAV | FULL STACK DEV FROM C-137 🛸</h1>
+<p align="center"><b><i>Building one repo at a time across the multiverse...</i></b></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
@@ -41,7 +41,7 @@
 ### 🧪 Rick & Morty Dev Mode Activated
 
 <p align="center">
-  <img src="https://i.redd.it/kc75jfgu62v61.png" width="500" alt="Rick and Morty Meme" />
+  <img src="https://raw.githubusercontent.com/muratkemaldar/rick-and-morty-memes/main/memes/rick-analyze.gif" width="500" alt="Rick Analyzing Meme" />
 </p>
 
 > "Morty, you gotta analyze the tweets, Morty! It's the only way to measure the multiverse's sentiment!" — Rick 🧪

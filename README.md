@@ -1,4 +1,4 @@
-<h1 align="center">🧪 VAISHNAV | FULL STACK DEV FROM C-137 🛸</h1>
+<h1 align="center">🧪 VAISHNAV DINESH | FULL STACK DEV FROM C-137 🛸</h1>
 <p align="center"><b><i>Building one repo at a time across the multiverse...</i></b></p>
 
 <p align="center">

@@ -2,7 +2,7 @@
 <p align="center">Java enthusiast • Logic explorer • Data analyst in progress 🚀</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🧪 Rick & Morty Dev Mode Activated
 
 <p align="center">
-  <img src="https://i.imgur.com/CbR0A5y.png" width="500" alt="Rick and Morty Meme" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="Rick and Morty Meme" />
 </p>
 
 > "Morty, you gotta analyze the tweets, Morty! It's the only way to measure the multiverse's sentiment!" — Rick 🧪
@@ -79,6 +79,5 @@
 > And I’m here to learn the spells. 🧙‍♂️
 
 ---
-
 
 

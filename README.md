@@ -41,14 +41,18 @@
 ### 🧪 Rick & Morty Dev Mode Activated
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muratkemaldar/rick-and-morty-memes/main/memes/rick-analyze.gif" width="500" alt="Rick Analyzing Meme" />
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/rickmorty-thoughts.gif" width="500" alt="Rick Thinking GIF" />
 </p>
 
 > "Morty, you gotta analyze the tweets, Morty! It's the only way to measure the multiverse's sentiment!" — Rick 🧪
 
 ---
 
-### 🧠 Favorite Rick & Morty Quote
+### 🧠 Favorite Quotes
+
+> *“Sometimes science is more art than science, Morty.”* — **Rick Sanchez**
+
+> *“You miss 100% of the shots you don’t take. – Wayne Gretzky” – Michael Scott*
 
 > *“Sometimes science is more art than science, Morty.”*  
 > — **Rick Sanchez**

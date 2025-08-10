@@ -1,85 +1,37 @@
-<h1 align="center">🧪 VAISHNAV DINESH | FULL STACK DEV FROM C-137 🛸</h1>
-<p align="center"><b><i>Building one repo at a time across the multiverse...</i></b></p>
+# 🛸 Wubba Lubba Dub Dub!  
+**Welcome to my interdimensional GitHub portal, Morty!**  
+_(I mean… welcome, fellow coder.)_  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🌱 Learning Java, DSA, and real-world data projects  
-- 📊 Passionate about combining **data + logic + storytelling**  
-- 🛠 Currently building: Twitter Sentiment Analyzer  
-- 📚 Always exploring new ways to think like a developer
+![Rick and Morty Portal](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 ---
 
-### ⚡ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### 🔍 Featured Project
-
-> 📊 **Twitter Sentiment Analyzer**  
-> A Java/Python-powered data analysis tool that fetches tweets and uses **Natural Language Processing (NLP)** to detect sentiment (positive, negative, neutral) in real-time.  
-> Includes:  
-> - Twitter API integration  
-> - Text preprocessing  
-> - Sentiment classification  
-> - Trend visualization (optional)  
-> → [View the Repo](https://github.com/Vaishnavdines/twitter-analysis)
+## 👨‍💻 Skills in My Galactic Toolbox
+- **Java** ☕ – Building code universes, one class at a time  
+- **HTML/CSS/JS** 🌐 – Portals to the web dimensions  
+- **Git/GitHub** 🌀 – Controlling time… and commits  
+- **Problem Solving** 🧠 – Like fixing a spaceship mid-wormhole
 
 ---
 
-### 🧪 Rick & Morty Dev Mode Activated
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/rickmorty-thoughts.gif" width="500" alt="Rick Thinking GIF" />
-</p>
-
-> "Morty, you gotta analyze the tweets, Morty! It's the only way to measure the multiverse's sentiment!" — Rick 🧪
+## 🎯 My Interests Across the Multiverse
+- 🚀 Creating wacky and functional code inventions  
+- 🛸 Exploring new tech galaxies  
+- 🎮 Gaming and game dev experiments  
+- 📚 Learning… but with interdimensional shortcuts
 
 ---
 
-### 🧠 Favorite Quotes
-
-> *“Sometimes science is more art than science, Morty.”* — **Rick Sanchez**
-
-> *“You miss 100% of the shots you don’t take. – Wayne Gretzky” – Michael Scott*
-
-> *“Sometimes science is more art than science, Morty.”*  
-> — **Rick Sanchez**
-
-> *“What about the reality where Hitler cured cancer, Morty? The answer is: don't think about it.”*
+## 🧪 How to Contact This Mad Scientist
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)  
+📧 Email: your@email.com  
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavdines&show_icons=true&theme=dracula" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vaishnavdines&theme=dracula" width="450"/>
-</p>
+> _"Sometimes science is more art than science, Morty."_ – Rick Sanchez  
 
 ---
 
-### 🔗 Let’s Connect
+⭐ **Star this repo if you survived the portal trip!**
 
-- 💼 [GitHub Profile](https://github.com/Vaishnavdines)  
-- 🧪 Currently experimenting with logic + data + storytelling
-
----
-
-### 💬 My Life Quote
-
-> “Code is the closest thing we have to magic.”  
-> And I’m here to learn the spells. 🧙‍♂️
-
----
